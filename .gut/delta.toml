@@ -1,0 +1,7 @@
+template = ""
+rev_id = 1
+template_sha = "4332b0d52ad278ec12da48f0936b2624069ce369"
+
+[replacements]
+__UNDEFINED__ = "Lule Sámi"
+__UND__ = "smj"
