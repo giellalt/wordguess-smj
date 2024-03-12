@@ -1255,7 +1255,6 @@ export const VALIDGUESSES = [
   'liknik',
   'librre',
   'kládda',
-  'kal'ká',
   'jurrat',
   'hássat',
   'gållåt',
