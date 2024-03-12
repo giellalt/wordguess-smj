@@ -12,6 +12,7 @@ export const ORTHOGRAPHY = [
   'o',
   'p',
   'å',
+  'ŋ',
 
   'a',
   's',
