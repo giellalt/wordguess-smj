@@ -2022,7 +2022,6 @@ export const VALIDGUESSES = [
   'bátsan',
   'bálggo',
   'ballem',
-  'Ávttso',
   'ávnnit',
   'árbbit',
   'ábjjat',

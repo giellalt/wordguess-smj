@@ -2022,7 +2022,6 @@ export const WORDS = [
   'bátsan',
   'bálggo',
   'ballem',
-  'Ávttso',
   'ávnnit',
   'árbbit',
   'ábjjat',
