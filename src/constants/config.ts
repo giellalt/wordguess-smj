@@ -1,5 +1,5 @@
 export const CONFIG = {
-  tries: 7, // This changes how many tries you get to finish the game
+  tries: 6, // This changes how many tries you get to finish the game
   language: 'Lule Sámi', // This changes the display name for your language
   wordLength: 6, // This sets how long each word is based on how many characters (as defined in orthography.ts) are in each word
   author: 'GiellaLT contributors', // Put your name here so people know who made this game!
