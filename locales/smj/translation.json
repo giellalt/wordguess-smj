@@ -1,0 +1,115 @@
+{
+    "about": "Spela birra",
+    "gameName": "Not Wordle - {{language}}",
+    "enterKey": "Måna",
+    "deleteKey": "Sihko",
+    "notEnoughLetters": "Ælla nuoges bokstáva",
+    "wordNotFound": "Báhko ij gávnnu",
+    "solution": "Báhko l {{solution}}",
+    "gameCopied": "Spella l moatteduvvam",
+    "howToPlay": "Gåktu spellat",
+    "instructions": "Måna bágov {{tries}}. Juohkka månnama maŋŋela, bájno vuosedi maktas la rievtes bokstávajt válljim.",
+    "pickYourLanguage": "Vállji gielav",
+    "correctSpotInstructions": "Bokstávva W gávnnu bágon ja dat la aj rievtes sajen.",
+    "wrongSpotInstructions": "Bokstávva L gávnnu bágon, valla l boastosajen.",
+    "notInWordInstructions": "Bokstávva U ij åvvånis gávnnu bágon.",
+    "guessDistribution": "Månnamjuohko",
+    "statistics": "Statistihkka",
+    "totalTries": "Spellama tjoahkkáj",
+    "successRate": "Rievtes månnama",
+    "currentStreak": "Dálásj strijkka",
+    "bestStreak": "Buoremus strijkka",
+    "newWordCountdown": "Ådå báhko ilmmá",
+    "share": "Juoge",
+    "winMessages": [
+        "Huj buorre!",
+        "Dån la ham riek tjiehppe",
+        "Ållu riekta",
+    ],
+    "firstExampleWord": [{
+            "letter": "B",
+            "highlight": false
+        },
+        {
+            "letter": "Å",
+            "highlight": true
+        },
+        {
+            "letter": "R",
+            "highlight": false
+        },
+        {
+            "letter": "R",
+            "highlight": false
+        },
+        {
+            "letter": "Å",
+            "highlight": false
+        },
+        {
+           "letter": "T",
+           "highlight": true
+        }
+    ],
+    "secondExampleWord": [{
+            "letter": "G",
+            "highlight": false
+        },
+        {
+            "letter": "Å",
+            "highlight": true
+        },
+        {
+            "letter": "D",
+            "highlight": false
+        },
+        {
+            "letter": "N",
+            "highlight": true
+        },
+        {
+            "letter": "A",
+            "highlight": true
+        },
+        {
+            "letter": "T",
+            "highlight": true
+        }
+    ],
+    "thirdExampleWord": [{
+            "letter": "M",
+            "highlight": true
+        },
+        {
+            "letter": "Å",
+            "highlight": true
+        },
+        {
+            "letter": "N",
+            "highlight": true
+        },
+        {
+            "letter": "N",
+            "highlight": true
+        },
+        {
+            "letter": "A",
+            "highlight": true
+        },
+        {
+            "letter": "T",
+            "highlight": true
+        }
+    ],
+    "aboutAuthorSentence": "Dát la moattádus rabás gálldokåvdså Wordle spellaj, ja la hiebaduvvam {{language}} <3>{{Divvunis}}</3>. ",
+    "aboutCodeSentence": "<1>Álggokåvdåv</1> la <3>Hannah Park</3> tjállam, máhtá <5>Aidan Pinea gáffilav </5> hiebadit ietjá gielajda! ",
+    "aboutDataSentence": "Bágo dán spelan li viettjaduvvam dássta <1>{{wordListSource}}</1>. ",
+    "aboutOriginalSentence": "Máhtá aj álggospelav spellat <1>dánna</1>",
+    "languages": {
+        "en": "Ieŋŋilsgiella",
+        "es": "Spánsska",
+        "sw": "Kiswahili",
+        "zh": "中文",
+        "smj": "Julevsámegiella"
+    }
+}
